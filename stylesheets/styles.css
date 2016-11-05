@@ -325,9 +325,12 @@ section {
 }
 
 .repoLinks{
-  height:25px;
-  width:75%;
-  background-color:#DDDDDD;
+  min-height:25px;
+  min-width:25%;
+  padding-left:10px;
+  background-color:#FEFEFE;
+  display:block;
+  position:absolute;
 }
 
 
